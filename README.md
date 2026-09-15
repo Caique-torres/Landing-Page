@@ -23,9 +23,9 @@ Uma aplicação web moderna desenvolvida com HTML, CSS e JavaScript, projetada c
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **HTML5:** 
-- **CSS3:** 
-- **JavaScript (ES6+):** 
+- **HTML5** 
+- **CSS3** 
+- **JavaScript (ES6+)** 
 
 ---
 
