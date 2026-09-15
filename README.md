@@ -14,7 +14,7 @@ Uma aplicação web moderna desenvolvida com HTML, CSS e JavaScript, projetada c
 
 - 🏢 **Apresentação Profissional:** Seção *Hero* de alto impacto com proposta de valor clara e efeito visual simulando código.
 - 🛠️ **Serviços & Habilidades:** Exibição estruturada em grade dos diferenciais e tecnologias utilizadas (HTML, CSS, JavaScript, React, Git, APIs).
-- 💼 **Projetos em Destaque:** Exibição de soluções desenvolvidas (TechInside, Clima App, Calculadora) com links diretos de navegação.
+- 💼 **Projetos em Destaque:** Exibição de soluções desenvolvidas com links diretos de navegação.
 - 📋 **Formulário de Contato:** Captura de *leads* integrada com FormSubmit para envio direto por e-mail e validação simples.
 - 📱 **Design Responsivo:** Otimização fluida e adaptável para celulares, tablets e desktops.
 - ☰ **Navegação Intuitiva:** Menu fixo com *smooth scroll* (rolagem suave) e menu lateral para navegação mobile.
