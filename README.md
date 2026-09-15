@@ -6,7 +6,7 @@ Uma aplicação web moderna desenvolvida com HTML, CSS e JavaScript, projetada c
 
 ## 🚀 Demonstração
 
-👉 [Clique aqui para acessar a Landing Page](https://caique-torres.github.io/Portfolio/)
+👉 [Clique aqui para acessar a Landing Page](https://caique-torres.github.io/Landing-Page/)
 
 ---
 
