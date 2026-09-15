@@ -23,9 +23,9 @@ Uma aplicação web moderna desenvolvida com HTML, CSS e JavaScript, projetada c
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **HTML5:** Estruturação semântica e acessível.
-- **CSS3:** Estilização moderna utilizando variáveis CSS, Flexbox, CSS Grid, efeitos de transparência (*backdrop-filter*) e animações.
-- **JavaScript (ES6+):** Manipulação do DOM, controle de menus dinâmicos e utilização do *IntersectionObserver API* para animações ao rolar a página.
+- **HTML5:** 
+- **CSS3:** 
+- **JavaScript (ES6+):** 
 
 ---
 
