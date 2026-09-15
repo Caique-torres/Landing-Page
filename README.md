@@ -39,5 +39,5 @@ Este projeto foi desenvolvido com o objetivo de colocar em prática o desenvolvi
 
 **Caique Torres**
 
-- 🐙 **GitHub:** [github.com/Caique-torres](https://github.com/Caique-torres)
-- 💼 **LinkedIn:** [linkedin.com/in/caique-torres-a797b81a6](https://www.linkedin.com/in/caique-torres-a797b81a6)
+-  **GitHub:** [github.com/Caique-torres](https://github.com/Caique-torres)
+-  **LinkedIn:** [linkedin.com/in/caique-torres-a797b81a6](https://www.linkedin.com/in/caique-torres-a797b81a6)
